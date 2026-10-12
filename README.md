@@ -15,8 +15,8 @@ An in-memory simulation of the Raft distributed consensus algorithm built from s
 
 ## 💻 How to Run
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Ahmad-raza-max/distributed-consensus-simulator.git](https://github.com/Ahmad-raza-max/distributed-consensus-simulator.git)
-   cd distributed-consensus-simulator
-   python main.py
-   '''
+  ```bash
+git clone https://github.com/Ahmad-raza-max/distributed-consensus-simulator.git
+cd distributed-consensus-simulator
+python main.py
+```
